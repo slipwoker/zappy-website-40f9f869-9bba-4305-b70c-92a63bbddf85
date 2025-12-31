@@ -1,0 +1,60 @@
+# יש חגיגה - אטרקציות ותוכן לאירועים — Generative Engine Optimization Map
+
+> A אירועים ובידור business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-40f9f869.zappy5.app
+הפכו את האירוע שלכם לבלתי נשכח עם דוכני מזון, מתנפחים, שולחנות משחק ועמדת צילום מקצועית. התייעצות חינם!
+
+### השירותים שלנו
+https://-40f9f869.zappy5.app/services
+גלו את המגוון המלא של השירותים שלנו: מתנפחים מרהיבים, דוכני מזון איכותיים, שולחנות משחק ועמדת צילום מקצועית לכל סוג אירוע.
+
+### אודות
+https://-40f9f869.zappy5.app/about
+הכירו את יש חגיגה - מובילים בתחום דוכני מזון, מתנפחים ואטרקציות לאירועים. ניסיון של שנים בהפיכת אירועים רגילים לחוויות בלתי נשכחות.
+
+### צור קשר
+https://-40f9f869.zappy5.app/contact
+צרו קשר עם יש חגיגה לקבלת ייעוץ מקצועי והצעת מחיר מותאמת אישית לדוכני מזון, מתנפחים, שולחנות משחק ועמדת צילום לאירוע שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-40f9f869.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-40f9f869.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-40f9f869.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יש חגיגה - אטרקציות ותוכן לאירועים
+יש חגיגה - אטרקציות ותוכן לאירועים is a business in the אירועים ובידור industry.
+
+## Target Audience
+- מתכנני אירועים מקצועיים
+- מארגני אירועים עסקיים
+- מארגני אירועים פרטיים
+- מארגני פסטיבלים
+
+## Industry
+אירועים ובידור
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-40f9f869.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-40f9f869.zappy5.app/robots.txt
